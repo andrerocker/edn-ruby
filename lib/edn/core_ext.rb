@@ -1,5 +1,4 @@
 require 'time'
-require 'bigdecimal'
 require 'set'
 
 module EDN
